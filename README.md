@@ -1,6 +1,14 @@
 # Medilab App Resources
 
 ## 1. API Helper
+
+### LoopJ Dependancy
+Paste the dependency on the gradle.module folder
+
+```
+implementation 'com.loopj.android:android-async-http:1.4.11'
+```
+
 Used for HTTP Client Communications
 
 ```
