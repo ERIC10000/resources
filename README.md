@@ -288,3 +288,12 @@ class PrefsHelper {
 } // end PrefsHelper
 
 ```
+
+## BASE URL in the constants folder
+```
+class Constants {
+    companion object{
+        val BASE_URL = "http://wangechi.pythonanywhere.com/api"
+    }
+}
+```
